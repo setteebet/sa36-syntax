@@ -1,0 +1,18 @@
+{
+  "name": "sa36-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottovip3✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottovip3",
+"วิธีเล่นหวยในเว็บ",
+"lottovip รวยออนไลน์",
+"เว็บแทงหวย24",
+"หวยขายดีแม่จำเนียรงวดนี้"
+],
+  "repository": "https://github.com/setteebet/sa36-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
